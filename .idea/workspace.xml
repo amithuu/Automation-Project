@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c7dcb05-a836-401a-a92a-622d1e43f306" name="Changes" comment="commited changes">
-      <change afterPath="$PROJECT_DIR$/Automation/Test_auto_all_forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automation/merge_file.py" afterDir="false" />
+    <list default="true" id="5c7dcb05-a836-401a-a92a-622d1e43f306" name="Changes" comment="Learnt how to run all the files at a time using class.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation/Test_auto_all_forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/Test_auto_all_forms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +36,6 @@
     &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="14f41eec-563d-44fe-aa4d-d143be7c1377" />
-  </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -219,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683254490638</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Learnt how to run all the files at a time using class.">
+      <created>1683943054232</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683943054232</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,6 +255,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commited changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited changes" />
+    <MESSAGE value="Learnt how to run all the files at a time using class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Learnt how to run all the files at a time using class." />
   </component>
 </project>

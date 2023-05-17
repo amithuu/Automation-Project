@@ -8,9 +8,9 @@ from selenium.webdriver.support import expected_conditions as ec
 
 driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
 
-class Templates1():
+class Templa():
 
-    def templates1(self):
+    def templa(self):
         driver.get("https://test-talentplace.vercel.app/login")
 
         # Login
@@ -22,5 +22,6 @@ class Templates1():
         # ref.merge()
         time.sleep(3)
 
-ref = Templates1()
-ref.templates1()
+
+ref = Templa()
+ref.templa()
