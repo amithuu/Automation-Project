@@ -39,7 +39,6 @@ class Bug:
         #     time.sleep(2)
 
 
-
 ref = Bug()
 ref.bug()
 
