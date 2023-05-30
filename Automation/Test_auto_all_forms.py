@@ -1,14 +1,14 @@
 import time
+
 from selenium import webdriver
-from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions as ec
+from webdriver_manager.chrome import ChromeDriverManager
+
 # from Automation.merge_file import Mrge
 
 driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
 
-class Templa():
+class Templa:
 
     def templa(self):
         driver.get("https://test-talentplace.vercel.app/login")

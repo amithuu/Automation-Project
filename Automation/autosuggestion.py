@@ -29,8 +29,6 @@ class Auto_sugg():
 
 
 
-        driver.execute_script("")
-
 
 att=Auto_sugg()
 att.auto_sugg()

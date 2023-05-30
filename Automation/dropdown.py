@@ -2,9 +2,7 @@
 import time
 from selenium import webdriver
 from selenium.webdriver.support.select import Select
-
 from webdriver_manager.chrome import ChromeDriverManager
-
 from selenium.webdriver.common.by import By
 
 
