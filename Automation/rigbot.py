@@ -27,16 +27,16 @@ class Bug:
         driver.find_element(By.XPATH, "//button[text()='Log In']").click()
         time.sleep(30)
 
-        # #Load Add Option
-        # driver.find_element(By.XPATH, "//a[@aria-label='Load add']").click()
-        # time.sleep(5)
-        #
-        # for i in range(1,8):
-        #     flow = driver.find_element(By.XPATH, f"//*[@class='arrow-steps clearfix']/div[{i}]").click()
-        #     time.sleep(2)
-        # for j in reversed(range(1, 7,)):
-        #     flow = driver.find_element(By.XPATH, f"//*[@class='arrow-steps clearfix']/div[{j}]").click()
-        #     time.sleep(2)
+        #Load Add Option
+        driver.find_element(By.XPATH, "//a[@aria-label='Load add']").click()
+        time.sleep(5)
+
+        for i in range(1,8):
+            flow = driver.find_element(By.XPATH, f"//*[@class='arrow-steps clearfix']/div[{i}]").click()
+            time.sleep(2)
+        for j in reversed(range(1, 7,)):
+            flow = driver.find_element(By.XPATH, f"//*[@class='arrow-steps clearfix']/div[{j}]").click()
+            time.sleep(2)
 
 
 ref = Bug()
