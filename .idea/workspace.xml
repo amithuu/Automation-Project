@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c7dcb05-a836-401a-a92a-622d1e43f306" name="Changes" comment="remove:removed comments">
-      <change afterPath="$PROJECT_DIR$/Automation/oraclecerner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5c7dcb05-a836-401a-a92a-622d1e43f306" name="Changes" comment="test:oracle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -260,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684334900809</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test:oracle">
+      <created>1685680758618</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685680758618</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,6 +298,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commited changes" />
     <MESSAGE value="Learnt how to run all the files at a time using class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Learnt how to run all the files at a time using class." />
+    <MESSAGE value="test:oracle" />
+    <option name="LAST_COMMIT_MESSAGE" value="test:oracle" />
   </component>
 </project>
